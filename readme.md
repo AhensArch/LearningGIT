@@ -1,5 +1,6 @@
-# Heyoooo Everyone!!!
+<<<<<<< HEAD
+# Welcome to Git.
 
-# yoo johny here.
+# This is coming from dev-ahens.
 
 ## Added feature branch
