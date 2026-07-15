@@ -1,3 +1,4 @@
+
 ### version of git
 ```
 git --version
@@ -248,12 +249,10 @@ On branch main
 Your branch and 'origin/main' have diverged,
 and have 6 and 3 different commits each, respectively.
   (use "git pull" if you want to integrate the remote branch with yours)
-
 Unmerged paths:
   (use "git restore --staged <file>..." to unstage)
   (use "git add <file>..." to mark resolution)
         both modified:   Hello.js
-
 no changes added to commit (use "git add" and/or "git commit -a")
 ➜  LearningGit git:(main) ✗ 
 ```
